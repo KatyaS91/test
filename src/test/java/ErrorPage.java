@@ -3,8 +3,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 /**
  * Created by katya on 04.01.17.
  */
- //comment1
+ //comment2
  //the second comment
+ // the third commit
 
 public class ErrorPage {
 
