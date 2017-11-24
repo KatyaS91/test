@@ -4,6 +4,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  * Created by katya on 04.01.17.
  */
  //comment
+ //the second comment
 
 public class ErrorPage {
 
