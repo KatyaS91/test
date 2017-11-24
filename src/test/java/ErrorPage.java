@@ -3,7 +3,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 /**
  * Created by katya on 04.01.17.
  */
- //comment
+ //comment1
  //the second comment
 
 public class ErrorPage {
