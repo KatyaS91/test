@@ -4,8 +4,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 /**
  * Created by katya on 04.01.17.
  */
-// torevert
-
+// new
 public class MainPage {
 
     private ChromeDriver driver;
