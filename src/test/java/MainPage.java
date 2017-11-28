@@ -4,7 +4,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 /**
  * Created by katya on 04.01.17.
  */
-
+// new
 public class MainPage {
 
     private ChromeDriver driver;
